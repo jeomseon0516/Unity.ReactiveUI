@@ -1,0 +1,8 @@
+{
+  "name": "Jeomseon.Unity.ReactiveUI.Samples.BasicUsage",
+  "rootNamespace": "Jeomseon.Unity.ReactiveUI.Samples.BasicUsage",
+  "references": [
+    "Jeomseon.Unity.Reactive",
+    "Jeomseon.Unity.ReactiveUI"
+  ]
+}

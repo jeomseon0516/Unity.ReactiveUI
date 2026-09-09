@@ -1,0 +1,9 @@
+{
+  "name": "Jeomseon.Unity.ReactiveUI",
+  "rootNamespace": "Jeomseon.Unity.ReactiveUI",
+  "references": [
+    "Jeomseon.Unity.Reactive"
+  ],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}
