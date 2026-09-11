@@ -1,0 +1,15 @@
+{
+  "name": "Jeomseon.Unity.ReactiveUI.Tests",
+  "rootNamespace": "Jeomseon.Unity.ReactiveUI.Tests",
+  "references": [
+    "Jeomseon.Unity.ReactiveUI",
+    "Jeomseon.Unity.Reactive"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}
